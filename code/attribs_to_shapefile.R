@@ -35,7 +35,9 @@ plot(attribs["Sage_1880"])
 write_sf(attribs,paste0("./GIS/section lines/",id,"_lines_attrib.shp"))
 
 ####2. Process all available layers####
-ids <- c("T29R11","T30R11","T31R11")
+#ids <- c("T29R11","T30R11","T31R11") #First batch of three townships
+ids <- c("T29R09","T30R09","T30R10","T31R09","T31R10") #Second batch of six townships
+#CHECKME still need to include "T29R10"
 l <- list()
 for(id in ids){
   d_1940 <- read_xlsx(paste0("./data/",id,"_data.xlsx"), sheet = "1940Survey") %>%
@@ -65,4 +67,4 @@ attribs <- left_join(lines_full,d_full)
 plot(attribs["Sage_1940"])
 plot(attribs["Sage_1880"])
 
-write_sf(attribs,paste0("./GIS/section lines/all_lines_attrib.shp"))
+write_sf(attribs,paste0("./GIS/section lines/all_lines_attrib_v2.shp"))
