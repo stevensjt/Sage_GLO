@@ -2459,8 +2459,24 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0090E0</SimpleData>
+		<SimpleData name="sectn">34</SimpleData>
 		<SimpleData name="Segment_id">30-09-34-S</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-105.964957930818,36.7851043997163 -105.983087016801,36.7850947898209</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
+		<SimpleData name="lndkey">NM230300N0090E0</SimpleData>
+		<SimpleData name="sectn">34</SimpleData>
+		<SimpleData name="Segment_id">30-09-34-S</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.964957930818,36.7851043997163 -105.983087016801,36.7850947898209</coordinates></LineString>
@@ -2490,24 +2506,17 @@
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.964957930818,36.7851043997163 -105.983087016801,36.7850947898209</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0090E0</SimpleData>
-		<SimpleData name="Segment_id">30-09-33-S</SimpleData>
-		<SimpleData name="Sage_1880">absent</SimpleData>
-		<SimpleData name="Sage_1880_simple">absent</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-106.001295691499,36.7851105999212 -105.983087016801,36.7850947898209</coordinates></LineString>
   </Placemark>
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0090E0</SimpleData>
 		<SimpleData name="sectn">33</SimpleData>
+		<SimpleData name="Segment_id">30-09-33-S</SimpleData>
 		<SimpleData name="Sage_1940">present</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
 		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-106.001295691499,36.7851105999212 -105.983087016801,36.7850947898209</coordinates></LineString>
   </Placemark>
@@ -3350,19 +3359,12 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
-		<SimpleData name="Segment_id">30-10-36-S</SimpleData>
-		<SimpleData name="Sage_1880">absent</SimpleData>
-		<SimpleData name="Sage_1880_simple">absent</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.838256085192,36.7851988830116 -105.82008360727,36.7851384399181</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">36</SimpleData>
+		<SimpleData name="Segment_id">30-10-36-S</SimpleData>
 		<SimpleData name="Sage_1940">present</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
 		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.838256085192,36.7851988830116 -105.82008360727,36.7851384399181</coordinates></LineString></MultiGeometry>
   </Placemark>
@@ -3578,39 +3580,25 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
-		<SimpleData name="Segment_id">30-10-31-S</SimpleData>
-		<SimpleData name="Sage_1880">absent</SimpleData>
-		<SimpleData name="Sage_1880_simple">absent</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.910661286988,36.7851510444133 -105.92871056495,36.7851577105084</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">31</SimpleData>
+		<SimpleData name="Segment_id">30-10-31-S</SimpleData>
 		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.910661286988,36.7851510444133 -105.92871056495,36.7851577105084</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
-		<SimpleData name="Segment_id">30-10-35-S</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.856358086144,36.7851396591187 -105.838256085192,36.7851988830116</coordinates></LineString></MultiGeometry>
+      <MultiGeometry><LineString><coordinates>-105.910661286988,36.7851510444133 -105.92871056495,36.7851577105084</coordinates></LineString></MultiGeometry>
   </Placemark>
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">35</SimpleData>
+		<SimpleData name="Segment_id">30-10-35-S</SimpleData>
 		<SimpleData name="Sage_1940">present</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
 		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.856358086144,36.7851396591187 -105.838256085192,36.7851988830116</coordinates></LineString></MultiGeometry>
   </Placemark>
@@ -3670,19 +3658,12 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
-		<SimpleData name="Segment_id">30-10-33-S</SimpleData>
-		<SimpleData name="Sage_1880">absent</SimpleData>
-		<SimpleData name="Sage_1880_simple">absent</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.87447392109,36.7851151302217 -105.892591786035,36.785111712322</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">33</SimpleData>
+		<SimpleData name="Segment_id">30-10-33-S</SimpleData>
 		<SimpleData name="Sage_1940">present</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
 		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.87447392109,36.7851151302217 -105.892591786035,36.785111712322</coordinates></LineString></MultiGeometry>
   </Placemark>
@@ -3755,19 +3736,12 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
-		<SimpleData name="Segment_id">30-10-34-S</SimpleData>
-		<SimpleData name="Sage_1880">absent</SimpleData>
-		<SimpleData name="Sage_1880_simple">absent</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.856358086144,36.7851396591187 -105.87447392109,36.7851151302217</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">34</SimpleData>
+		<SimpleData name="Segment_id">30-10-34-S</SimpleData>
 		<SimpleData name="Sage_1940">present</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
 		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.856358086144,36.7851396591187 -105.87447392109,36.7851151302217</coordinates></LineString></MultiGeometry>
   </Placemark>
@@ -3814,19 +3788,12 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
-		<SimpleData name="Segment_id">30-10-32-S</SimpleData>
-		<SimpleData name="Sage_1880">absent</SimpleData>
-		<SimpleData name="Sage_1880_simple">absent</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.892591786035,36.785111712322 -105.910661286988,36.7851510444133</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">32</SimpleData>
+		<SimpleData name="Segment_id">30-10-32-S</SimpleData>
 		<SimpleData name="Sage_1940">present</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
 		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.892591786035,36.785111712322 -105.910661286988,36.7851510444133</coordinates></LineString></MultiGeometry>
   </Placemark>
@@ -3939,17 +3906,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">06</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.928891303039,36.8581333238677 -105.928953034644,36.8727540247398 -105.928953000644,36.8727540127398</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="Segment_id">30-10-06-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.928891303039,36.8581333238677 -105.928953034644,36.8727540247398 -105.928953000644,36.8727540127398</coordinates></LineString></MultiGeometry>
@@ -3972,17 +3932,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">07</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.928860377426,36.8435164849977 -105.928891303039,36.8581333238677</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="Segment_id">30-10-07-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.928860377426,36.8435164849977 -105.928891303039,36.8581333238677</coordinates></LineString></MultiGeometry>
@@ -4018,17 +3971,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">30</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.928806638189,36.8143056392573 -105.928749379574,36.7997097723851</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="Segment_id">30-10-30-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.928806638189,36.8143056392573 -105.928749379574,36.7997097723851</coordinates></LineString></MultiGeometry>
@@ -4103,17 +4049,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">31</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.92871056495,36.7851577105084 -105.928749379574,36.7997097723851</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="Segment_id">30-10-31-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">unknown</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">unknown</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.92871056495,36.7851577105084 -105.928749379574,36.7997097723851</coordinates></LineString></MultiGeometry>
@@ -4162,17 +4101,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">18</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.928832367809,36.8289088401273 -105.928860377426,36.8435164849977</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="Segment_id">30-10-18-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.928832367809,36.8289088401273 -105.928860377426,36.8435164849977</coordinates></LineString></MultiGeometry>
@@ -4234,17 +4166,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="sectn">19</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <MultiGeometry><LineString><coordinates>-105.928806638189,36.8143056392573 -105.928832367809,36.8289088401273</coordinates></LineString></MultiGeometry>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0100E0</SimpleData>
 		<SimpleData name="Segment_id">30-10-19-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>-105.928806638189,36.8143056392573 -105.928832367809,36.8289088401273</coordinates></LineString></MultiGeometry>
@@ -4956,17 +4881,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="sectn">31</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.820145633885,36.7997495487824 -105.82008360327,36.7851384399472</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="Segment_id">30-11-31-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.820145633885,36.7997495487824 -105.82008360327,36.7851384399472</coordinates></LineString>
@@ -5028,17 +4946,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="sectn">07</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.820321210347,36.8581965962431 -105.820297656728,36.8435936523766</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="Segment_id">30-11-07-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.820321210347,36.8581965962431 -105.820297656728,36.8435936523766</coordinates></LineString>
@@ -5100,17 +5011,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="sectn">30</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.820119435517,36.81437571464 -105.820145633885,36.7997495487824</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="Segment_id">30-11-30-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.820119435517,36.81437571464 -105.820145633885,36.7997495487824</coordinates></LineString>
@@ -5120,17 +5024,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="sectn">06</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.820395430952,36.8728032311128 -105.820321205347,36.858196598243</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="Segment_id">30-11-06-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.820395430952,36.8728032311128 -105.820321205347,36.858196598243</coordinates></LineString>
@@ -5192,17 +5089,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="sectn">19</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.820119435517,36.81437571464 -105.82022604712,36.8289791545098</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="Segment_id">30-11-19-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.820119435517,36.81437571464 -105.82022604712,36.8289791545098</coordinates></LineString>
@@ -5238,17 +5128,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="sectn">18</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.82022604712,36.8289791545098 -105.820297656728,36.8435936523766</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230300N0110E0</SimpleData>
 		<SimpleData name="Segment_id">30-11-18-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.82022604712,36.8289791545098 -105.820297656728,36.8435936523766</coordinates></LineString>
@@ -5688,9 +5571,9 @@
 		<SimpleData name="lndkey">NM230310N0090E0</SimpleData>
 		<SimpleData name="sectn">31</SimpleData>
 		<SimpleData name="Segment_id">31-09-31-S</SimpleData>
-		<SimpleData name="Sage_1940">absent</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
-		<SimpleData name="Sage_1940_simple">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-106.019339853487,36.8722296503338 -106.037505710453,36.8719870994786 -106.037505710455,36.8719871004948</coordinates></LineString>
@@ -5704,6 +5587,32 @@
 		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
 		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-106.019339853487,36.8722296503338 -106.037505710453,36.8719870994786 -106.037505710455,36.8719871004948</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
+		<SimpleData name="lndkey">NM230310N0090E0</SimpleData>
+		<SimpleData name="sectn">31</SimpleData>
+		<SimpleData name="Segment_id">31-09-31-S</SimpleData>
+		<SimpleData name="Sage_1940">absent</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">absent</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-106.019339853487,36.8722296503338 -106.037505710453,36.8719870994786 -106.037505710455,36.8719871004948</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
+		<SimpleData name="lndkey">NM230310N0090E0</SimpleData>
+		<SimpleData name="sectn">31</SimpleData>
+		<SimpleData name="Segment_id">31-09-31-S</SimpleData>
+		<SimpleData name="Sage_1940">absent</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">absent</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-106.019339853487,36.8722296503338 -106.037505710453,36.8719870994786 -106.037505710455,36.8719871004948</coordinates></LineString>
@@ -6916,17 +6825,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="sectn">06</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.929191140952,36.9604747799851 -105.928967711709,36.9458757490917</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="Segment_id">31-10-06-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.929191140952,36.9604747799851 -105.928967711709,36.9458757490917</coordinates></LineString>
@@ -6936,17 +6838,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="sectn">18</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.928942029494,36.9166145433492 -105.928949482105,36.9312267152224</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="Segment_id">31-10-18-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.928942029494,36.9166145433492 -105.928949482105,36.9312267152224</coordinates></LineString>
@@ -6956,8 +6851,24 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="sectn">19</SimpleData>
+		<SimpleData name="Segment_id">31-10-19-W</SimpleData>
 		<SimpleData name="Sage_1940">present</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
 		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-105.928942029494,36.9166145433492 -105.92895010388,36.9019756474815</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
+		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
+		<SimpleData name="sectn">19</SimpleData>
+		<SimpleData name="Segment_id">31-10-19-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
+		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
+		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.928942029494,36.9166145433492 -105.92895010388,36.9019756474815</coordinates></LineString>
   </Placemark>
@@ -6992,17 +6903,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="sectn">30</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.92895010388,36.9019756474815 -105.928933568267,36.8873580586101</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="Segment_id">31-10-30-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.92895010388,36.9019756474815 -105.928933568267,36.8873580586101</coordinates></LineString>
@@ -7012,17 +6916,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="sectn">07</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.928967711709,36.9458757490917 -105.928949482105,36.9312267152224</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="Segment_id">31-10-07-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.928967711709,36.9458757490917 -105.928949482105,36.9312267152224</coordinates></LineString>
@@ -7032,17 +6929,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="sectn">31</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.928953034644,36.8727540247398 -105.928933568267,36.8873580586101</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230310N0100E0</SimpleData>
 		<SimpleData name="Segment_id">31-10-31-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.928953034644,36.8727540247398 -105.928933568267,36.8873580586101</coordinates></LineString>
@@ -7878,17 +7768,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0110E0</SimpleData>
 		<SimpleData name="sectn">31</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.820395430952,36.8728032311128 -105.820355676577,36.887446951971</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230310N0110E0</SimpleData>
 		<SimpleData name="Segment_id">31-11-31-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.820395430952,36.8728032311128 -105.820355676577,36.887446951971</coordinates></LineString>
@@ -7950,17 +7833,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0110E0</SimpleData>
 		<SimpleData name="sectn">19</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.820242969848,36.9165561467139 -105.82030814321,36.9020154508406</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230310N0110E0</SimpleData>
 		<SimpleData name="Segment_id">31-11-19-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.820242969848,36.9165561467139 -105.82030814321,36.9020154508406</coordinates></LineString>
@@ -7993,17 +7869,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0110E0</SimpleData>
 		<SimpleData name="sectn">30</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.82030814321,36.9020154508406 -105.820355676577,36.887446951971</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230310N0110E0</SimpleData>
 		<SimpleData name="Segment_id">31-11-30-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.82030814321,36.9020154508406 -105.820355676577,36.887446951971</coordinates></LineString>
@@ -8166,17 +8035,10 @@
 	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
 		<SimpleData name="lndkey">NM230310N0110E0</SimpleData>
 		<SimpleData name="sectn">18</SimpleData>
-		<SimpleData name="Sage_1940">present</SimpleData>
-		<SimpleData name="Sage_1940_simple">present</SimpleData>
-	</SchemaData></ExtendedData>
-      <LineString><coordinates>-105.820242969848,36.9165561467139 -105.820141324489,36.9311340905803</coordinates></LineString>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#all_lines_attrib_v3">
-		<SimpleData name="lndkey">NM230310N0110E0</SimpleData>
 		<SimpleData name="Segment_id">31-11-18-W</SimpleData>
+		<SimpleData name="Sage_1940">present</SimpleData>
 		<SimpleData name="Sage_1880">absent</SimpleData>
+		<SimpleData name="Sage_1940_simple">present</SimpleData>
 		<SimpleData name="Sage_1880_simple">absent</SimpleData>
 	</SchemaData></ExtendedData>
       <LineString><coordinates>-105.820242969848,36.9165561467139 -105.820141324489,36.9311340905803</coordinates></LineString>
