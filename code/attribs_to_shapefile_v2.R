@@ -5,6 +5,7 @@
 library(sf)
 library(tidyverse)
 library(readxl)
+library(dplyr)
 
 ####1. Process an individual layer####
 #Read spatial data
