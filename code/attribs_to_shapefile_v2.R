@@ -2,6 +2,7 @@
 ##Jens Stevens, stevensjt@gmail.com, 1/26/21
 #eqm and kf edits to add 2004 data 10/19/21
 #kmf edits to reflect 2019 data 02/10/22
+#kmf running again with new data 03/09/22
 
 library(sf)
 library(tidyverse)
