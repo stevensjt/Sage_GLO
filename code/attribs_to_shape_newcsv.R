@@ -15,15 +15,16 @@ plot(lines$geometry)
 
 #Read survey data
 
-all_town <- read_xlsx(paste0("./data/",id,"all_townships.xlsx"), sheet = "Sheet1") %>%
-  filter(Survey_type == "Sage") %>%
+#all_town <- read_xlsx(paste0("./data/",id,"all_townships.xlsx"), sheet = "Sheet1") %>%
+ # filter(Survey_type == "Sage") %>%
   
-all_town2 <-read_xlsx("./data/",id,"all_townships.xlsx")
+all_town <-read_csv("./data/all_townships.csv")
 
-all_townships <-select(Segment,Sage,Year) %>%
-  
+#all_townships <-select(Segment,Sage,Year) %>%
 
 
-attribs <- all_townships
+#plot
+attribs <- all_town
 plot(attribs["Sage_1880"])
 plot(attribs["Sage_2019"])
+

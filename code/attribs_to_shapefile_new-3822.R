@@ -8,18 +8,18 @@ library(dplyr)
 ####1. Process an individual layer####
 #Read spatial data
 
-id <- "T31R11" #set the township you want to work on
+id <- "T29R11" #set the township you want to work on
 lines <- read_sf(paste0("./GIS/section lines/",id,"_lines.shp"))
 plot(lines$geometry)
 
 
 #Read survey data
-d_2019 <- read_xlsx("data/all_townships.xlsx", sheet = "T31R11") %>%
+d_2019 <- read_xlsx("data/all_townships.xlsx", sheet = "T29R11") %>%
   #filter(Survey_type == "transect_summary") %>%
   filter(Year == "2019") %>%
   select(Segment,Sage) %>%
   rename(Sage_2019 = Sage)
-d_1881 <- read_xlsx("data/all_townships.xlsx", sheet = "T31R11") %>%
+d_1881 <- read_xlsx("data/all_townships.xlsx", sheet = "T29R11") %>%
   #filter(Survey_type == "transect_summary") %>%
   filter(Year == "1881") %>%
   select(Segment,Sage) %>%
