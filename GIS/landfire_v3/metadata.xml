@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220504</CreaDate><CreaTime>14024700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\arcgis\desktop10.7\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20220504" Time="140247">PolygonToRaster Landfire_v3 gridcode D:\ellis\research\Taos\BLM_RGDN_monument\GLO\Sage_GLO\GIS\landfire_v3 CELL_CENTER NONE 30</Process></lineage></DataProperties></Esri></metadata>
