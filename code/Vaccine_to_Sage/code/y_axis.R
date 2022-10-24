@@ -12,7 +12,9 @@ library(ggalluvial)
 #survey=year
 #response=sage
 
-all_townships <- read.csv("data/all_townships_final.csv")
+#all_townships <- read.csv("data/all_townships_final.csv")
+all_townships <- read.csv("./code/Vaccine_to_Sage/data/all_townships_final.csv") #added pathname to get to data folder in Vaccine_to_Sage folder
+
 
 all_townships$Sage <- factor(all_townships$Sage)
 all_townships$Year <- factor(all_townships$Year)
@@ -55,8 +57,6 @@ final <-ggplot(all_townships,
   theme(text = element_text(size=28))
   #ggtitle("Sagebrush presence through time")                                  
   
-
-
 ggsave(plot = final, width = 20, height = 20, filename = "sage_all_final.png")
 
 ggsave("sage_overall_all_twnsps_final.png")

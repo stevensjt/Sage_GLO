@@ -10,12 +10,14 @@ library(dplyr)
 library(ggplot2)
 library(ggalluvial)
 
-
 #idk whatim doing but im trying
   #survey=year
   #response=sage
-#why is this not working i am sad, i can import but not read .csv?????
-all_townships <- read.csv("all_townships_v1.csv")
+#why is this not working i am sad, i can import but not read .csv????? #don't be sad
+#all_townships <- read.csv("all_townships_v1.csv")
+
+#slight edit to point to right directory - should work if start by opening the Sage_Glo R project
+all_townships <- read.csv("./code/Vaccine_to_Sage/data/all_townships_v1.csv")
 
 all_townships$Sage <- factor(all_townships$Sage)
 all_townships$Year <- factor(all_townships$Year)
@@ -27,8 +29,6 @@ levels(all_townships$Township)
 levels(all_townships$Segment)
 #dat <- transform(dat,
 #                          Sage = factor(Sage, rev(levels(Sage))))
-
-#notown <- select(all_townships, -Township)
 
 
 ggplot(all_townships,
@@ -47,6 +47,8 @@ labs(y="Number of section lines")
 ggsave("sage_overall.png")
 
 #using notown instead 
+
+notown <- select(all_townships, -Township)
 
 ggplot(notown,
        aes(x = Year, stratum = Sage, alluvium = Segment,
