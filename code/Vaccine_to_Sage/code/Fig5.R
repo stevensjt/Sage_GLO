@@ -50,7 +50,8 @@ final <-ggplot(all_townships,
   geom_stratum(alpha = .5) +
   #facet_wrap(~ Township , scales = "fixed") +
   labs(y="Number of section lines") +
-  #geom_text(stat = "stratum", size = 3) +
+  #geom_text(stat = "stratum", size = 3) + 
+  #scale_fill_manual(values=c("green","blue")) + #for some reason it messes up graph when i add color?
   theme(legend.position = "bottom") +
   theme(text = element_text(size=28))+ 
   annotate(geom = "text", x = 1.5, y = 300, label = "Present to absent", size=7 , angle=64)
@@ -67,7 +68,7 @@ final <-ggplot(all_townships,
 ############################################################################
 #final pub ready tiff version w/ label slanted, even!! Boooyaaa!
 ggsave(plot = final, device = tiff, width = 10, height = 10, dpi = 301, 
-       filename = "./code/Vaccine_to_Sage/figures/final/fig5/Fig5_sage_all_final_w_label1.tiff")
+       filename = "./code/Vaccine_to_Sage/figures/final/fig5/Fig5_sage_all_final_w_label1_color.tiff")
 #smaller jpeg version
 ggsave(plot = final, device = jpeg, width = 10, height = 10, dpi = 301, 
        filename = "./code/Vaccine_to_Sage/figures/final/fig5/Fig5_sage_all_final_w_label1.jpeg")
