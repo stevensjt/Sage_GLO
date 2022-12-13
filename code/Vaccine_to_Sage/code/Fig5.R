@@ -44,16 +44,18 @@ all_townships$Township <- factor(all_townships$Township, levels=c("T31R09","T31R
 final <-ggplot(all_townships,
        aes(x = Year, stratum = Sagebrush, alluvium = Segment,
            y = c(1),
-           fill = Sagebrush, label = Sagebrush)) +
+           fill = Sagebrush, label = Sagebrush)) + 
   scale_x_discrete(expand = c(.1, .1)) +
   geom_flow() +
-  geom_stratum(alpha = .5) +
+  geom_stratum(alpha = .5) + 
+  #aes(fill=c("green","gray")) + this doesn't work
   #facet_wrap(~ Township , scales = "fixed") +
   labs(y="Number of section lines") +
-  #geom_text(stat = "stratum", size = 3) + 
-  #scale_fill_manual(values=c("green","blue")) + #for some reason it messes up graph when i add color?
+  #scale_fill_brewer(palette = "YlGn", direction = 1) +
+  #geom_text(stat = "stratum", size = 3)  + #for some reason it messes up graph when i add color?
   theme(legend.position = "bottom") +
-  theme(text = element_text(size=28))+ 
+  theme(text = element_text(size=28)) + 
+  theme_bw()+  
   annotate(geom = "text", x = 1.5, y = 300, label = "Present to absent", size=7 , angle=64)
   #ggtitle("Sagebrush presence through time")                                  
   
