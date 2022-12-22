@@ -17,9 +17,9 @@ library(dplyr)
 
 #make data frame - prct of plots in different grass index categories
 dat <- data.frame(
-  High = c(37.7, 30.7),
-  Moderate = c(39.5, 24.6),
-  Low = c(20.2, 44.7),
+  High = c(39, 29),
+  Moderate = c(40, 25),
+  Low = c(21, 46),
   Year = as.factor(c("1881", "2020"))
 )
 

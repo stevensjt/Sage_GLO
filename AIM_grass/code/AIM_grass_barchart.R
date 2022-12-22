@@ -42,6 +42,7 @@ ggplot(dat_long, aes(x = Year, y = Value, fill = Stat)) +
   scale_fill_brewer(palette = "YlGn")
   geom_bar()
 #getting error when i try geom_bar()
+
 #stacked bar graph  
 
 bar <- dat
